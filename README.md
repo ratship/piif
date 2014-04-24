@@ -1,4 +1,3 @@
-piif
-====
+Piif - Preferring Inline Instead Foreign
 
-Responsive Framework based on Bootstrap 3
+A Responsive Framework based on Bootstrap 3
