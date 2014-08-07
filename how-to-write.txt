@@ -1,3 +1,0 @@
-New classes:
-
-.up-case{text-transform:uppercase;}
